@@ -1,0 +1,8 @@
+C:\Users\devnull\Desktop\JailbreakPDA\JailbreakPDA\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\devnull\Desktop\JailbreakPDA\JailbreakPDA\obj\Debug\JailbreakPDA.Form1.resources
+C:\Users\devnull\Desktop\JailbreakPDA\JailbreakPDA\obj\Debug\JailbreakPDA.Properties.Resources.resources
+C:\Users\devnull\Desktop\JailbreakPDA\JailbreakPDA\obj\Debug\JailbreakPDA.csproj.GenerateResource.Cache
+C:\Users\devnull\Desktop\JailbreakPDA\JailbreakPDA\bin\Debug\JailbreakPDA.exe
+C:\Users\devnull\Desktop\JailbreakPDA\JailbreakPDA\bin\Debug\JailbreakPDA.pdb
+C:\Users\devnull\Desktop\JailbreakPDA\JailbreakPDA\obj\Debug\JailbreakPDA.exe
+C:\Users\devnull\Desktop\JailbreakPDA\JailbreakPDA\obj\Debug\JailbreakPDA.pdb
